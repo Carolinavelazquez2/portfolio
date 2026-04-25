@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --violeta: #6C63FF;
+  --violeta-claro: #EEF0FF;
+  --azul-oscuro: #1A1A2E;
+  --blanco: #FAFAFA;
+  --gris: #888888;
+  --negro: #1A1A1A;
+  --fuente: 'Plus Jakarta Sans', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--fuente);
+  background: var(--blanco);
+  color: var(--azul-oscuro);
+  overflow-x: hidden;
+}

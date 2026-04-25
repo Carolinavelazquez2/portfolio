@@ -1,0 +1,22 @@
+.footer {
+  background: var(--azul-oscuro);
+  padding: 32px 6%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.footer p {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.footer p span {
+  color: var(--violeta);
+  font-weight: 700;
+}
+
+.footer-copy {
+  font-size: 12px;
+}
