@@ -10,8 +10,8 @@ const projects = [
     description: 'Tienda de ropa y accesorios para mascotas. Identidad de marca completa — nombre, paleta, logo, tipografía y web funcional con animaciones CSS.',
     tags: ['HTML', 'CSS', 'JavaScript'],
     image: pawky,
-    demo: 'https://carolinavelazquez2.github.io/Tindog/',
-    code: 'https://github.com/Carolinavelazquez2/Tindog',
+    demo: 'https://carolinavelazquez2.github.io/tienda-ropa/',
+    code: 'https://github.com/Carolinavelazquez2/tienda-ropa/',
   },
   {
     id: 2,
